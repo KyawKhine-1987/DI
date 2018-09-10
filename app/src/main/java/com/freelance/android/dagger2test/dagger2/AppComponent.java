@@ -1,6 +1,6 @@
 package com.freelance.android.dagger2test.dagger2;
 
-import com.freelance.android.dagger2test.BaseActivity;
+import com.freelance.android.dagger2test.activities.BaseActivity;
 import com.freelance.android.dagger2test.Dagger2Application;
 
 import javax.inject.Singleton;

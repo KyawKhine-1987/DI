@@ -1,4 +1,4 @@
-package com.freelance.android.dagger2test;
+package com.freelance.android.dagger2test.activities;
 
 import android.content.Context;
 import android.content.SharedPreferences;
@@ -6,6 +6,8 @@ import android.os.Bundle;
 import android.support.annotation.Nullable;
 import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
+
+import com.freelance.android.dagger2test.Dagger2Application;
 
 import javax.inject.Inject;
 

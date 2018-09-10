@@ -1,8 +1,10 @@
-package com.freelance.android.dagger2test;
+package com.freelance.android.dagger2test.activities;
 
 import android.os.Bundle;
 import android.util.Log;
 import android.widget.TextView;
+
+import com.freelance.android.dagger2test.R;
 
 public class MainActivity extends BaseActivity {
 
